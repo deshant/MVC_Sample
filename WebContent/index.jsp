@@ -9,6 +9,6 @@
 <body>
 
 
-<jsp:forward page="login.htm"></jsp:forward>
+<jsp:forward page="home.htm"></jsp:forward>
 </body>
 </html>
