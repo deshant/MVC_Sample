@@ -12,7 +12,7 @@ public class LogControlller {
 	@RequestMapping("/login.htm")
 	public String showForm(ModelMap model){
 		
-		return "/jsp/login.jsp";
+		return "WebContent/JSP/index.jsp";
 	}
 
 }
