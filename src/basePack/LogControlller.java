@@ -17,10 +17,19 @@ public class LogControlller {
 
 		User user=new User();
 		model.addAttribute("user",user);
-		System.out.println("in controller");
+		//System.out.println("in controller");
 		return "/JSP/login.jsp";
 	}
 	
+	@RequestMapping("/logout.htm")
+	public String goBack(ModelMap model){
+
+		User user=new User();
+		model.addAttribute("user",user);
+		//System.out.println("in controller");
+		return "/JSP/login.jsp";
+	}
+
 	@RequestMapping("/login.htm")
     public String processForm(@ModelAttribute("user") User user){
 			
@@ -29,5 +38,6 @@ public class LogControlller {
 		}
 		return "/JSP/login.jsp";
 	}
-
+	
+	
 }

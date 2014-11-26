@@ -20,19 +20,21 @@
               <h1>WELCOME</h1>
             </div>
 
-		<div id="tabs" style="margin-left:50px; margin-top:50px; margin-bottom:50px">
+		<div id="tabs" align="left" style="margin-left:50px; margin-top:50px; padding:10px">
 		<table class="TFtable">
 	        <tr style="background-color:#D4D4BF">
 	        <td class = "links" style="margin-left:5em"><button id="1" type="button">TAB 1</button></td>
 	        <td class = "links" style="margin-left:5em"><button id="2" type="button">TAB 2</button></td>
 	        <td class = "links" style="margin-left:5em"><button id="3" type="button">TAB 3</button></td>
-	        <td align="right" style="margin-left:5em"><button id="4" type="button">LOGOUT</button></td>
-        	</tr>
+	        </tr>
     	</table>
-    	<br>
-    	<br>
+    	</div>
+    	<div>
+    	<form action="logout.htm" method="get">
+    		<input type="submit" style="margin-left:100px; float:right" value="Logout" 
+         name="Submit" />
+		</form>
 		</div>
-			 	
-		</div>
+	</div>
 	</body>
 </html>
