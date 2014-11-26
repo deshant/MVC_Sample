@@ -48,5 +48,11 @@
 		<p>Contents for tab 1</p>
 		
 	</div>
+	<div align="right" style=" float:bottom">
+	<br/>
+		<br/><br/>
+		A springs framework project by Deshant Sharma
+	</div>
+	
 	</body>
 </html>

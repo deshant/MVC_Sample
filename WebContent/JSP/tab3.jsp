@@ -45,9 +45,14 @@
 		
 		<br/>
 		<br/><br/>
-		<p>Contents for tab 3.<br/>
-			A project my Deshant Sharma</p>
+		<p>Contents for tab 3.<br/></p>
 		
 	</div>
+	<div align="right" style=" float:bottom">
+	<br/>
+		<br/><br/>
+		A springs framework project by Deshant Sharma
+	</div>
+	
 	</body>
 </html>
