@@ -21,10 +21,10 @@
             <h1>Login</h1>
             </div>
 
-		<div id="left" align="left" style="margin-left:100px">
+		<div id="left" align="left" style="margin-left:100px; float:left">
 			 <img alt="Home Page" src="/MVC_Sample/kakashi.png"/> 
 		</div>
-		<div id="right" class="form-group" align="right" style="margin-right:100px">
+		<div id="right" class="form-group" align="right" style="margin-right:100px; margin-left:500px; width:80px; height:100px">
 		
 		<form:form action="login.htm" method="post" commandName="user">
 		
