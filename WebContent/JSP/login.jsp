@@ -18,11 +18,11 @@
 	<div class="container">
 	
 		<div id="top" align="center" style="margin-top:50px; margin-bottom:50px">
-              <h1>Login</h1>
+            <h1>Login</h1>
             </div>
 
 		<div id="left" align="left" style="margin-left:100px">
-			 <img alt="Home Page" src="Content/images/top.jpg"/>
+			 <img alt="Home Page" src="/MVC_Sample/kakashi.png"/> 
 		</div>
 		<div id="right" class="form-group" align="right" style="margin-right:100px">
 		

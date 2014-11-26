@@ -17,7 +17,6 @@ public class LogControlller {
 
 		User user=new User();
 		model.addAttribute("user",user);
-
 		System.out.println("in controller");
 		return "/JSP/login.jsp";
 	}
