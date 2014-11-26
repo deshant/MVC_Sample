@@ -37,21 +37,5 @@ public class LogControlller {
 			return "/JSP/home.jsp";
 		}
 		return "/JSP/login.jsp";
-	}
-	
-	@RequestMapping("/tab1.htm")
-    public String navTab1(){
-			return "/JSP/tab1.jsp";
-	}
-	
-	@RequestMapping("/tab2.htm")
-    public String navTab2(){
-			return "/JSP/tab2.jsp";
-	}
-	
-	@RequestMapping("/tab3.htm")
-    public String navTab3(){
-			return "/JSP/tab3.jsp";
-	}
-	
+	}	
 }
