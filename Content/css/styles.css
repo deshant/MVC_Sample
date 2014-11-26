@@ -29,8 +29,6 @@
     /* shrink bottom's font size */
     text-align: center;
 
-    /* surround with whitespace */
-    margin: 20px;
     margin-left: 100px;
     /*margin-right: auto; */
     text-align: center;   
@@ -45,7 +43,7 @@
 
     /* surround with whitespace */
     margin: 20px;
-    /*margin-left: auto;*/
+    margin-left: 400px;
     margin-right: 100px;
     text-align: center;
 }
