@@ -6,11 +6,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-		
-		<link href="/Content/css/bootstrap.min.css" rel="stylesheet"/>
-        <link href="/Content/css/bootstrap-theme.min.css" rel="stylesheet"/>
-        <link href="/Content/css/styles.css" rel="stylesheet"/>
-				
+
 		<title>Home</title>
 	</head>
 	<body>
@@ -25,20 +21,32 @@
     		<input type="submit" style="margin-left:10px; float:left" value="Tab 1" 
     	     name="tab1" />
 			</form>
+			
 			<form action="tab2.htm" method="get">
-    		<input type="submit" style="margin-left:10px; float:left" value="Tab 2" 
-    	     name="tab2" />
+    		<input type="submit" style="margin-left:10px; float:left; 
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); font-size: 125%;"
+    		 value="Tab 2" name="tab2" />
 			</form>
+			
 			<form action="tab3.htm" method="get">
     		<input type="submit" style="margin-left:10px; float:left" value="Tab 3" 
     	     name="Tab3" />
 			</form>
+			
 			<form action="logout.htm" method="get">
     		<input type="submit" style="margin-left:10px; float:right" value="Logout" 
     	     name="Submit" />
 			</form>
 			
     	</div>
+	</div>
+	
+	<div style="margin-left:100px">
+		
+		<br/>
+		<br/><br/>
+		<p>Contents for tab 2</p>
+		
 	</div>
 	</body>
 </html>

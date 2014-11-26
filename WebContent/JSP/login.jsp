@@ -8,17 +8,13 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		
-		<link href="Content/css/bootstrap.min.css" rel="stylesheet"/>
-        <link href="Content/css/bootstrap-theme.min.css" rel="stylesheet"/>
-        <link href="Content/css/styles.css" rel="stylesheet"/>
-				
 		<title>Welcome</title>
 	</head>
 	<body>
 	<div class="container">
 	
-		<div id="top" align="center" style="margin-top:50px; margin-bottom:50px">
-            <h1>Login</h1>
+		<div id="top" align="center" style="margin-top:50px; margin-bottom:50px;">
+            <h1 style="color: #FF3300;">Login</h1>
             </div>
 
 		<div id="left" align="left" style="margin-left:100px; float:left">

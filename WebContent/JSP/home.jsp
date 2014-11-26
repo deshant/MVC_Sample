@@ -6,11 +6,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-		
-		<link href="/Content/css/bootstrap.min.css" rel="stylesheet"/>
-        <link href="/Content/css/bootstrap-theme.min.css" rel="stylesheet"/>
-        <link href="/Content/css/styles.css" rel="stylesheet"/>
-				
+						
 		<title>Home</title>
 	</head>
 	<body>
@@ -39,6 +35,12 @@
 			</form>
 			
     	</div>
+	</div>
+	<div style="margin-left:100px">
+		
+		<br/>
+		<br/><br/>
+		<h4>Welcome to the Home Page, use above tabs for navigation.</h4>	
 	</div>
 	</body>
 </html>
